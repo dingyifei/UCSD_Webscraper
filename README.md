@@ -1,3 +1,5 @@
+Note: The original project was probably abandoned, I'm thinking if I could do a re-write...
+
 # Purpose
 
 This is a project that is designed to reduce some of the thinking during class enrollment with UCSD's web registration app, WebReg.
